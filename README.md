@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # humanizer-zh
 
 **给 AI 写的中文文本做"去AI味"手术——删掉拐杖词、打破三段式、让它读起来像人写的。**
